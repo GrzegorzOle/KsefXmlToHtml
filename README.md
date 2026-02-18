@@ -43,4 +43,5 @@ Skrypt PowerShell umożliwia przekształcenie pliku faktury ustrukturyzowanej KS
 ## Inne szablony
 
 https://crd.gov.pl/wzor/2025/06/25/13775/
+
 https://github.com/asoio/ksef-xslt/blob/main/
