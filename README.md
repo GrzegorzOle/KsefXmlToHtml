@@ -39,3 +39,9 @@ Skrypt PowerShell umożliwia przekształcenie pliku faktury ustrukturyzowanej KS
 
 - Szybki podgląd zawartości faktury FA(3) poza systemem księgowym, w zwykłej przeglądarce.[web:3][web:11]
 - Przygotowanie wydruku lub zrzutów ekranowych faktur z KSeF do celów prezentacyjnych lub archiwizacyjnych w formie czytelnego HTML.[web:11][web:8]
+
+## Inne szablony
+
+https://crd.gov.pl/wzor/2025/06/25/13775/
+
+https://github.com/asoio/ksef-xslt/blob/main/
